@@ -6,4 +6,4 @@ While Linear Regression would be the first thing that comes on our mind if we th
 THere by we opt for LSTM(Long short-term memory) is an artificial recurrent neural network architecture used in the field of deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections.
 
 LSTM has feedback connections. It can not only process single data points, but also entire sequences of data.
-Here we go.. Predicting stock price.
+Here we go..Building a Stock Price Prediction Model.
